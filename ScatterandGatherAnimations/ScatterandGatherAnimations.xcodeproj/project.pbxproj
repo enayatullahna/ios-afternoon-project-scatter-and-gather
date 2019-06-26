@@ -12,6 +12,7 @@
 		E61E7E8522C302E50063F199 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E61E7E8322C302E50063F199 /* Main.storyboard */; };
 		E61E7E8722C302E60063F199 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E61E7E8622C302E60063F199 /* Assets.xcassets */; };
 		E61E7E8A22C302E60063F199 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E61E7E8822C302E60063F199 /* LaunchScreen.storyboard */; };
+		E61E7E9222C311430063F199 /* lambda_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = E61E7E9122C311430063F199 /* lambda_logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E61E7E8622C302E60063F199 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E61E7E8922C302E60063F199 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E61E7E8B22C302E60063F199 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E61E7E9122C311430063F199 /* lambda_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = lambda_logo.png; path = ../../lambda_logo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E61E7E8322C302E50063F199 /* Main.storyboard */,
 				E61E7E8622C302E60063F199 /* Assets.xcassets */,
 				E61E7E8822C302E60063F199 /* LaunchScreen.storyboard */,
+				E61E7E9122C311430063F199 /* lambda_logo.png */,
 				E61E7E8B22C302E60063F199 /* Info.plist */,
 			);
 			path = ScatterandGatherAnimations;
@@ -125,6 +128,7 @@
 				E61E7E8A22C302E60063F199 /* LaunchScreen.storyboard in Resources */,
 				E61E7E8722C302E60063F199 /* Assets.xcassets in Resources */,
 				E61E7E8522C302E50063F199 /* Main.storyboard in Resources */,
+				E61E7E9222C311430063F199 /* lambda_logo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
